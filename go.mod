@@ -1,4 +1,4 @@
-module goPrj
+module github.com/rocky1001/log
 
 go 1.17
 
